@@ -40,8 +40,11 @@
 </head>
 <body>
     <div class="header">
-	    <div class="logo">&nbsp;</div>
+	    <div class="logo">
+           <img src="cyber.png"> 
+          </div>
 	    <div class="title">Debugging</div>
+        <div class="logo"></div>
     </div>
     <div class="login-box">
         <div class="login-content">

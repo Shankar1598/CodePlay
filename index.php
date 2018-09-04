@@ -15,8 +15,11 @@
     </head>
     <body>
         <div class="header">
-	    <div class="logo">&nbsp;</div>
+	    <div class="logo">
+       <img src="cyber.png"> 
+      </div>
 	    <div class="title">Debugging</div>
+      <div class="logo">&nbsp;</div>
     </div>
         <div class="big-boss">
             <div class="small-boss">
